@@ -1,16 +1,16 @@
-# taiwan-taizhong-mandarin
+# Taiwan Taizhong Mandarin
 The phase 1, 2 &amp; 3 flashcards created by the Taiwan Taizhong Mission for learning Mandarin Chinese
 
 
 
-<b>Problems, Bugs, Errors, Improvements</b>
+# Problems, Bugs, Errors, Improvements
 If you find a serious bug, please submit it on </a><a href="https://github.com/ankingmed/taiwan-taizhong-mission/issues" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
 
-<b>Changelog</b>
+# Changelog
 2022-01: Initial Release
 
-<b>Credit:</b>
-These flashcards were originally created by the Taiwan Taizhong Mission for learning Mandarin Chinese. The Taiwan Taizhong Mission is a mission of <a href="https://www.churchofjesuschrist.org/">The Church of Jesus Christ of Latter-day Saints</a>
+# Credit:
+  These flashcards were originally created by the Taiwan Taizhong Mission for learning Mandarin Chinese. The Taiwan Taizhong Mission is a mission of <a href="https://www.churchofjesuschrist.org/">The Church of Jesus Christ of Latter-day Saints</a>
 
 
 

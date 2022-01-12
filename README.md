@@ -9,18 +9,29 @@ The note types were based on the AnKing Note Types. See <a href="https://github.
 
 ## Phase 1
 - The Missionary Lessons from <a href="https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng">Preach My Gospel</a>
+<img src="/screenshots/Phase1.gif" style="width:600px;">
+
 ## Phase 2
 - Two thousand commonly used terms, organized by topic
+<img src="/screenshots/Phase2.gif" style="width:600px;">
+
 ## Phase 3
 - All 2,530 characters used in the Chinese edition of the Triple Combination (Book of Mormon, Doctrine and Covenants, and Pearl of Great Price). The stroke order of each character is clearly marked to enable you to write the character correctly. The characters are presented in order of frequency of appearance in the Book of Mormon.
+<img src="/screenshots/Phase3.gif" style="width:600px;">
+
+### Image Legend:
+<img src="/screenshots/Phase3Example.jpg" style="width:600px;">
+
 ## Zhuyin
 - All Taiwan Zhuyin characters with examples
+<img src="/screenshots/Zhuyin.gif" style="width:600px;">
 
+# Original Resources
 See the [pdf files](https://github.com/AnKingMed/taiwan-taizhong-mandarin/tree/main/pdfs) in this repository for the original files these were based on and a few other PDFs with Mandarin study tools (such as the Triple Column Book of Mormon with English, Zhuyin, & Characters)
 
 
 # Problems, Bugs, Errors, Improvements
-If you find a serious bug, please submit it on </a><a href="https://github.com/ankingmed/taiwan-taizhong-mission/issues" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
+If you find a serious bug, please submit it on </a><a href="https://github.com/AnKingMed/taiwan-taizhong-mandarin/issues" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
 
 # Changelog
 2022-01: Initial Release

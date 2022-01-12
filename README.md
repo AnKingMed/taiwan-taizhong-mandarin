@@ -2,6 +2,10 @@
 The phase 1, 2 &amp; 3 flashcards created by the Taiwan Taizhong Mission for learning Mandarin Chinese
 
 # Deck preview
+Note:
+- designed similar to ankingmed note types [link to github and video]
+- grab text from instructions card for readme and ankiweb
+- add links to pdfs
 ## Phase 1
 ## Phase 2
 ## Phase 3

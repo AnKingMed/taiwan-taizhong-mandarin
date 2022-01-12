@@ -1,6 +1,11 @@
 # Taiwan Taizhong Mandarin
 The phase 1, 2 &amp; 3 flashcards created by the Taiwan Taizhong Mission for learning Mandarin Chinese
 
+# Deck preview
+## Phase 1
+## Phase 2
+## Phase 3
+## Zhuyin
 
 
 # Problems, Bugs, Errors, Improvements

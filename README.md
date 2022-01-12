@@ -2,14 +2,21 @@
 The phase 1, 2 &amp; 3 flashcards created by the Taiwan Taizhong Mission for learning Mandarin Chinese
 
 # Deck preview
-Note:
-- designed similar to ankingmed note types [link to github and video]
-- grab text from instructions card for readme and ankiweb
-- add links to pdfs
+The note types were based on the AnKing Note Types. See <a href="https://github.com/AnKingMed/AnKing-Note-Types">this Github Repository</a> for more information<br>
+### Key points:
+- Use the "H" with the <a href="https://ankiweb.net/shared/info/1844908621">Hint Hotkeys Add-on</a> or the apostrophe (') key to reveal pinyin and other button hints
+- Everything is customizable in the note styling, including auto-showing the button hints, card colors, etc.
+
 ## Phase 1
+- The Missionary Lessons from <a href="https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng">Preach My Gospel</a>
 ## Phase 2
+- Two thousand commonly used terms, organized by topic
 ## Phase 3
+- All 2,530 characters used in the Chinese edition of the Triple Combination (Book of Mormon, Doctrine and Covenants, and Pearl of Great Price). The stroke order of each character is clearly marked to enable you to write the character correctly. The characters are presented in order of frequency of appearance in the Book of Mormon.
 ## Zhuyin
+- All Taiwan Zhuyin characters with examples
+
+See the [pdf files](https://github.com/AnKingMed/taiwan-taizhong-mandarin/tree/main/pdfs) in this repository for the original files these were based on and a few other PDFs with Mandarin study tools (such as the Triple Column Book of Mormon with English, Zhuyin, & Characters)
 
 
 # Problems, Bugs, Errors, Improvements

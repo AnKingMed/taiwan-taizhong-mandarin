@@ -1,12 +1,13 @@
 # Taiwan Taizhong Mandarin
 The phase 1, 2 &amp; 3 flashcards created by the Taiwan Taizhong Mission for learning Mandarin Chinese
 
-# Deck preview
+# Note Types
 The note types were based on the AnKing Note Types. See <a href="https://github.com/AnKingMed/AnKing-Note-Types">this Github Repository</a> for more information<br>
 ### Key points:
 - Use the "H" with the <a href="https://ankiweb.net/shared/info/1844908621">Hint Hotkeys Add-on</a> or the apostrophe (') key to reveal pinyin and other button hints
 - Everything is customizable in the note styling, including auto-showing the button hints, card colors, etc.
 
+# Deck preview
 ## Phase 1
 - The Missionary Lessons from <a href="https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng">Preach My Gospel</a>
 - These cards are English to Mandarin

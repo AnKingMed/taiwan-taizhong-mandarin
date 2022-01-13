@@ -17,6 +17,7 @@ The note types were based on the AnKing Note Types. See <a href="https://github.
 
 ## Phase 3
 - All 2,530 characters used in the Chinese edition of the Triple Combination (Book of Mormon, Doctrine and Covenants, and Pearl of Great Price). The stroke order of each character is clearly marked to enable you to write the character correctly. The characters are presented in order of frequency of appearance in the Book of Mormon.
+- These notes have a field with the character and field with pinyin (intentionally without tones) for ease of searching
 <img src="/screenshots/Phase3.gif" style="width:600px;">
 
 ### Image Legend:

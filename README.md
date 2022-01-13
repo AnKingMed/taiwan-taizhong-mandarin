@@ -9,10 +9,12 @@ The note types were based on the AnKing Note Types. See <a href="https://github.
 
 ## Phase 1
 - The Missionary Lessons from <a href="https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service?lang=eng">Preach My Gospel</a>
+- These cards are English to Mandarin
 <img src="/screenshots/Phase1.gif" style="width:600px;">
 
 ## Phase 2
 - Two thousand commonly used terms, organized by topic
+- These cards are English to Mandarin AND Mandarin to English
 <img src="/screenshots/Phase2.gif" style="width:600px;">
 
 ## Phase 3

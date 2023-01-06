@@ -1,5 +1,5 @@
 # Taiwan Taizhong Mandarin
-The phase 1, 2 &amp; 3 flashcards created by the Taiwan Taizhong Mission for learning Mandarin Chinese
+The phase 1, 2 &amp; 3 flashcards created by the Taiwan Taizhong Mission for learning Mandarin Chinese. See [here](https://ankiweb.net/shared/info/1778722819) for the Ankiweb listing 
 
 # Note Types
 The note types were based on the AnKing Note Types. See <a href="https://github.com/AnKingMed/AnKing-Note-Types">this Github Repository</a> for more information<br>
